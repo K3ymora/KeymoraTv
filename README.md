@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keymora
 - 👀 I’m interested in coding lots of different things.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning python.
 - 📫 How to reach me? @k3ymora on discord tell me your from github!
 
 <!---
